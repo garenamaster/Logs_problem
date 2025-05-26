@@ -26,7 +26,7 @@ public class LogParser {
         Operation op = null;
 
         String[] parts = tail.split("\\s+"); // общее для всех случаев
-        String verb = parts[0];               // transferred / withdrew / balance
+        String verb = parts[0]; // transferred / withdrew / balance
         BigDecimal amount;
         try{
             switch (verb) {
