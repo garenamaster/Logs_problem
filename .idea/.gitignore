@@ -3,5 +3,5 @@
 /workspace.xml
 /out/
 /*.class
-/B.java
+src/parser/B.java
 
