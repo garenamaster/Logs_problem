@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 /out/
-/*.class
+/**.class
 src/parser/B.java
 
 
